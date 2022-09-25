@@ -1,0 +1,15 @@
+C:\Users\79518\Documents\C# edu\Семинар 6\Task 008\obj\Debug\net6.0\Task 008.csproj.AssemblyReference.cache
+C:\Users\79518\Documents\C# edu\Семинар 6\Task 008\obj\Debug\net6.0\Task 008.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79518\Documents\C# edu\Семинар 6\Task 008\obj\Debug\net6.0\Task 008.AssemblyInfoInputs.cache
+C:\Users\79518\Documents\C# edu\Семинар 6\Task 008\obj\Debug\net6.0\Task 008.AssemblyInfo.cs
+C:\Users\79518\Documents\C# edu\Семинар 6\Task 008\obj\Debug\net6.0\Task 008.csproj.CoreCompileInputs.cache
+C:\Users\79518\Documents\C# edu\Семинар 6\Task 008\bin\Debug\net6.0\Task 008.exe
+C:\Users\79518\Documents\C# edu\Семинар 6\Task 008\bin\Debug\net6.0\Task 008.deps.json
+C:\Users\79518\Documents\C# edu\Семинар 6\Task 008\bin\Debug\net6.0\Task 008.runtimeconfig.json
+C:\Users\79518\Documents\C# edu\Семинар 6\Task 008\bin\Debug\net6.0\Task 008.dll
+C:\Users\79518\Documents\C# edu\Семинар 6\Task 008\bin\Debug\net6.0\Task 008.pdb
+C:\Users\79518\Documents\C# edu\Семинар 6\Task 008\obj\Debug\net6.0\Task 008.dll
+C:\Users\79518\Documents\C# edu\Семинар 6\Task 008\obj\Debug\net6.0\refint\Task 008.dll
+C:\Users\79518\Documents\C# edu\Семинар 6\Task 008\obj\Debug\net6.0\Task 008.pdb
+C:\Users\79518\Documents\C# edu\Семинар 6\Task 008\obj\Debug\net6.0\Task 008.genruntimeconfig.cache
+C:\Users\79518\Documents\C# edu\Семинар 6\Task 008\obj\Debug\net6.0\ref\Task 008.dll

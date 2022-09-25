@@ -1,0 +1,15 @@
+C:\Users\79518\Documents\C# edu\Семинар 6\Task 007\bin\Debug\net6.0\Task 007.exe
+C:\Users\79518\Documents\C# edu\Семинар 6\Task 007\bin\Debug\net6.0\Task 007.deps.json
+C:\Users\79518\Documents\C# edu\Семинар 6\Task 007\bin\Debug\net6.0\Task 007.runtimeconfig.json
+C:\Users\79518\Documents\C# edu\Семинар 6\Task 007\bin\Debug\net6.0\Task 007.dll
+C:\Users\79518\Documents\C# edu\Семинар 6\Task 007\bin\Debug\net6.0\Task 007.pdb
+C:\Users\79518\Documents\C# edu\Семинар 6\Task 007\obj\Debug\net6.0\Task 007.csproj.AssemblyReference.cache
+C:\Users\79518\Documents\C# edu\Семинар 6\Task 007\obj\Debug\net6.0\Task 007.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79518\Documents\C# edu\Семинар 6\Task 007\obj\Debug\net6.0\Task 007.AssemblyInfoInputs.cache
+C:\Users\79518\Documents\C# edu\Семинар 6\Task 007\obj\Debug\net6.0\Task 007.AssemblyInfo.cs
+C:\Users\79518\Documents\C# edu\Семинар 6\Task 007\obj\Debug\net6.0\Task 007.csproj.CoreCompileInputs.cache
+C:\Users\79518\Documents\C# edu\Семинар 6\Task 007\obj\Debug\net6.0\Task 007.dll
+C:\Users\79518\Documents\C# edu\Семинар 6\Task 007\obj\Debug\net6.0\refint\Task 007.dll
+C:\Users\79518\Documents\C# edu\Семинар 6\Task 007\obj\Debug\net6.0\Task 007.pdb
+C:\Users\79518\Documents\C# edu\Семинар 6\Task 007\obj\Debug\net6.0\Task 007.genruntimeconfig.cache
+C:\Users\79518\Documents\C# edu\Семинар 6\Task 007\obj\Debug\net6.0\ref\Task 007.dll
